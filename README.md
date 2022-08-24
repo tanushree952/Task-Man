@@ -10,4 +10,4 @@ The purpose of the application is to allow users to easily track and manage task
 ➡ Mark completed tasks as incomplete,
 ➡ Delete existing tasks,
 ➡ All task activities by a user are to be tracked and can be viewed in the form of an activity feed. For. e.g. If a user deletes a task the activity feed should have "Username perform delete operation". 
-• Used core django components like templates, forms to develop TaskMan.
+• Used core django components like templates, forms to develop taskman.
